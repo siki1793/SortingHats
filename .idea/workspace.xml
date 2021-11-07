@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da7c6000-ce07-4db0-8d6a-c50b2526a029" name="Default Changelist" comment="" />
+    <list default="true" id="da7c6000-ce07-4db0-8d6a-c50b2526a029" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHM-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vedantu Engineering Coding Problem - Google Docs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/saikrishna/vedantu/shm/SHM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/saikrishna/vedantu/shm/enums/FoodPreferences.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/saikrishna/vedantu/shm/model/SortingHat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/saikrishna/vedantu/shm/model/Student$StudentBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/saikrishna/vedantu/shm/model/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/saikrishna/vedantu/shm/SortingHatTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.saikrishna.vedantu.shm.SortingHatTests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.saikrishna.vedantu.shm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.saikrishna.vedantu.shm.SortingHatTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_build-test-output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_jar-output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_test-caseoutput.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/saikrishna/vedantu/shm/SHM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/saikrishna/vedantu/shm/enums/FoodPreferences.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/saikrishna/vedantu/shm/model/SortingHat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/saikrishna/vedantu/shm/model/Student$StudentBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/saikrishna/vedantu/shm/model/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/classes/com/saikrishna/vedantu/shm/SortingHatTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/saikrishna/vedantu/shm/SHM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/saikrishna/vedantu/shm/enums/FoodPreferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/saikrishna/vedantu/shm/model/SortingHat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/saikrishna/vedantu/shm/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/saikrishna/vedantu/shm/SortingHatTests.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -41,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/saikrishna/vedantu/shm/SHM.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-70">
-              <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,7 +126,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/saikrishna/vedantu/shm/model/SortingHat.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-13">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#4516#4517#0" expanded="true" />
@@ -88,7 +152,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -180,7 +244,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636299774295" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636299931936" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -304,9 +368,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -321,7 +384,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.51566267" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.51566267" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -468,7 +531,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/saikrishna/vedantu/shm/SHM.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-70">
-          <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -478,7 +541,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/saikrishna/vedantu/shm/model/SortingHat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-13">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#4516#4517#0" expanded="true" />
@@ -497,7 +560,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
         </state>
       </provider>
     </entry>
